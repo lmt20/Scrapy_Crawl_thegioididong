@@ -1,0 +1,16 @@
+[
+  { "brand_id": "80", "brand_name": "apple-iphone" },
+  { "brand_id": "2", "brand_name": "samsung" },
+  { "brand_id": "1971", "brand_name": "oppo" },
+  { "brand_id": "2235", "brand_name": "xiaomi" },
+  { "brand_id": "2236", "brand_name": "vivo" },
+  { "brand_id": "17201", "brand_name": "realme" },
+  { "brand_id": "17566", "brand_name": "vsmart" },
+  { "brand_id": "1", "brand_name": "nokia" },
+  { "brand_id": "104", "brand_name": "huawei" },
+  { "brand_id": "19", "brand_name": "mobell" },
+  { "brand_id": "5332", "brand_name": "itel" },
+  { "brand_id": "2327", "brand_name": "coolpad" },
+  { "brand_id": "100", "brand_name": "blackberry" },
+  { "brand_id": "4832", "brand_name": "masstel" }
+]
